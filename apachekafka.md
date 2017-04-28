@@ -11,3 +11,5 @@ The producer cannot write on the until it is consumed to leave some space to wri
 
 With kafka a use and through buffer with an expiry time, called immutable partition is written by producers and consumed by consumers.
 
+## References
+1. _https://www.quora.com/What-is-the-actual-role-of-ZooKeeper-in-Kafka_
