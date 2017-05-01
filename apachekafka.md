@@ -10,6 +10,14 @@ The producer cannot write on the until it is consumed to leave some space to wri
 ![](https://kafka.apache.org/0102/images/log_anatomy.png)
 
 With kafka a use and through buffer with an expiry time, called immutable partition is written by producers and consumed by consumers.
+```
+Not Sure Why:
+============
+* number of pertions must be equal to number of consumers in a consumer group for kafka.
 
+```
 ## References
 1. _https://www.quora.com/What-is-the-actual-role-of-ZooKeeper-in-Kafka_
+2. _https://sookocheff.com/post/kafka/kafka-in-a-nutshell/_
+3. _https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/_
+4. _https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/_
