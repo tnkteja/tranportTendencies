@@ -20,4 +20,4 @@ Not Sure Why:
 1. _https://www.quora.com/What-is-the-actual-role-of-ZooKeeper-in-Kafka_
 2. _https://sookocheff.com/post/kafka/kafka-in-a-nutshell/_
 3. _https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/_
-4. _https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/_
+4. _https://www.safaribooksonline.com/library/view/kafka-the-definitive/9781491936153/ch04.html_
