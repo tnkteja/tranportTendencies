@@ -21,3 +21,4 @@ Not Sure Why:
 2. _https://sookocheff.com/post/kafka/kafka-in-a-nutshell/_
 3. _https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/_
 4. _https://www.safaribooksonline.com/library/view/kafka-the-definitive/9781491936153/ch04.html_
+5. _https://dzone.com/articles/kafka-clients-at-most-once-at-least-once-exactly-o_
