@@ -16,9 +16,13 @@ Not Sure Why:
 * number of pertions must be equal to number of consumers in a consumer group for kafka.
 
 ```
+## Messaging Semantics
+[6]
+
 ## References
 1. _https://www.quora.com/What-is-the-actual-role-of-ZooKeeper-in-Kafka_
 2. _https://sookocheff.com/post/kafka/kafka-in-a-nutshell/_
 3. _https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/_
 4. _https://www.safaribooksonline.com/library/view/kafka-the-definitive/9781491936153/ch04.html_
 5. _https://dzone.com/articles/kafka-clients-at-most-once-at-least-once-exactly-o_
+6. _https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/_
